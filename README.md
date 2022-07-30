@@ -1,4 +1,4 @@
-#Merge Sort
+# Merge Sort
 
 ## Proje 2 - Merge Sort
 
